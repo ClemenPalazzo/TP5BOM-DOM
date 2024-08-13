@@ -1,4 +1,4 @@
-# Proyecto de Ejercicios de JavaScript con HTML y CSS
+# Proyecto TP5 BOM & DOM
 
 Este proyecto contiene una serie de ejercicios que ilustran diferentes funcionalidades implementadas con **JavaScript**, **HTML**, **Bootstrap** y **CSS**..
 
