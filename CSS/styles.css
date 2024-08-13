@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+#gameArea {
+    margin-top: 20px;
+}
+
+#inputNumero {
+    font-size: 1.25rem;
+    padding: 10px;
+}

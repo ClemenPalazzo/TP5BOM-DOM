@@ -1,0 +1,108 @@
+/* Estilos generales */
+body {
+    background: linear-gradient(135deg, #74ebd5, #acb6e5); /* Fondo degradado suave */
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #333;
+}
+
+
+.container {
+    background: rgba(216, 147, 201, 0.85);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 100%;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#tiempoInput {
+    padding: 10px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+#temporizador {
+    font-size: 4rem;
+    font-weight: bold;
+    margin: 20px 0;
+    color: #333;
+}
+
+
+button {
+    width: 100px;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button:focus {
+    outline: none;
+}
+
+#btnIniciar {
+    background-color: #70bdb0;
+    color: #333;
+}
+
+#btnIniciar:hover {
+    background-color: #218838;
+}
+
+#btnPausar {
+    background-color: #7cd7dd;
+    color: #333;
+}
+
+#btnPausar:hover {
+    background-color: #fffcf4;
+}
+
+#btnReset {
+    background-color: #eb9da5;
+    color: #333;
+}
+
+#btnReset:hover {
+    background-color: #c82333;
+}
+
+/* Responsive */
+@media (max-width: 500px) {
+    #temporizador {
+        font-size: 3rem;
+    }
+
+    button {
+        width: 80px;
+        font-size: 1rem;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    .container {
+        padding: 20px;
+    }
+}
