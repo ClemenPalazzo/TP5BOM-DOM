@@ -1,4 +1,4 @@
-// Selección de elementos del DOM
+
 const tareaInput = document.getElementById("tareaInput");
 const btnAgregar = document.getElementById("btnAgregar");
 const listaTareas = document.getElementById("listaTareas");
