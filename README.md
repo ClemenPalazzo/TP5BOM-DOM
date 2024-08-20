@@ -165,6 +165,3 @@ Para ejecutar cualquiera de estos ejercicios, sigue estos pasos:
 - **CSS:** Estilos y diseño de las aplicaciones.
 - **JavaScript:** Lógica para manejar la interactividad, el tiempo real y la manipulación del DOM.
 
----
-
-Este proyecto es una excelente demostración de cómo combinar **HTML**, **CSS**, y **JavaScript** para crear aplicaciones web interactivas y funcionales. ¡Espero que disfrutes explorando y trabajando con estos ejercicios! 🚀
